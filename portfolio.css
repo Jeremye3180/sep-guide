@@ -1,0 +1,20 @@
+#font {
+        font-size: 50px;
+    font-family: cursive;
+    
+}
+
+#font2 {
+    font-size: 50px;
+font-family: 'Pinyon Script', cursive;
+}
+
+#logo {
+    width: 150px;
+    height: 150px;
+}
+
+#Banner {
+    
+    background-image: url("architecture-portfolio.jpg");
+}
